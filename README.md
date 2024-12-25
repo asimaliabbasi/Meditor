@@ -1,6 +1,6 @@
 # meditor
 
-A new Flutter project.
+A new Flutter project using sqflite for storage and full responsive dynamic layout without signup login 5 screens.
 
 ## Getting Started
 
